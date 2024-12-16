@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5zml+yehfb%@4py7!4c9s)g)g_ip5uo!9ex+kx9t+m)6h)r+8a
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "ratio-its.onrender.com",
+    "django-gravitational-api.onrender.com",
     "localhost",              
     "127.0.0.1"               
 ]
